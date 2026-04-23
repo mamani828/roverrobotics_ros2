@@ -1,0 +1,48 @@
+[0.007s] Invoking command in '/home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/lab/Mani/roverrobotics_ros2/roverrobotics_input_manager -DCMAKE_INSTALL_PREFIX=/home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager
+[0.055s] -- The C compiler identification is GNU 11.4.0
+[0.106s] -- The CXX compiler identification is GNU 11.4.0
+[0.114s] -- Detecting C compiler ABI info
+[0.147s] -- Detecting C compiler ABI info - done
+[0.153s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.153s] -- Detecting C compile features
+[0.154s] -- Detecting C compile features - done
+[0.156s] -- Detecting CXX compiler ABI info
+[0.195s] -- Detecting CXX compiler ABI info - done
+[0.201s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.201s] -- Detecting CXX compile features
+[0.202s] -- Detecting CXX compile features - done
+[0.206s] -- Found ament_cmake: 1.3.12 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.507s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.619s] -- Configuring done
+[0.621s] -- Generating done
+[0.622s] -- Build files have been written to: /home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager
+[0.624s] Invoked command in '/home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake /home/lab/Mani/roverrobotics_ros2/roverrobotics_input_manager -DCMAKE_INSTALL_PREFIX=/home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager
+[0.626s] Invoking command in '/home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager -- -j16 -l16
+[0.633s] Invoked command in '/home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --build /home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager -- -j16 -l16
+[0.635s] Invoking command in '/home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager
+[0.636s] -- Install configuration: ""
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/Controller.py
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/Topics.py
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/__pycache__
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/__pycache__/Controller.cpython-310.pyc
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/__pycache__/Topics.cpython-310.pyc
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/__pycache__/Controller.cpython-38.pyc
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/modules/__pycache__/Topics.cpython-38.pyc
+[0.636s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/lib/roverrobotics_input_manager/joys_manager.py
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/ament_index/resource_index/package_run_dependencies/roverrobotics_input_manager
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/ament_index/resource_index/parent_prefix_path/roverrobotics_input_manager
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/environment/ament_prefix_path.sh
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/environment/ament_prefix_path.dsv
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/environment/path.sh
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/environment/path.dsv
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/local_setup.bash
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/local_setup.sh
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/local_setup.zsh
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/local_setup.dsv
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/package.dsv
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/ament_index/resource_index/packages/roverrobotics_input_manager
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/cmake/roverrobotics_input_managerConfig.cmake
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/cmake/roverrobotics_input_managerConfig-version.cmake
+[0.637s] -- Installing: /home/lab/Mani/roverrobotics_ros2/install/roverrobotics_input_manager/share/roverrobotics_input_manager/package.xml
+[0.638s] Invoked command in '/home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/local/bin/cmake --install /home/lab/Mani/roverrobotics_ros2/build/roverrobotics_input_manager
